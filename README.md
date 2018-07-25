@@ -2,7 +2,7 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+Hi, I don't know what it does.
 
 FEATURES PLACEHOLDER
 
